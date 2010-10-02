@@ -11,4 +11,8 @@ true copy.
 
 Somehow, though, these results look pretty sweet.
 
+I've also used http://shawncplus.github.com/Vim-toCterm to provide 256-color
+terminal support, although, while the result is reasonable in itself, it
+(understandably) doesn't seem to recreate the subtlety of the original.
+
 Enjoy!
