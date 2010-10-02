@@ -1,6 +1,10 @@
 " Vim color file
-" Converted from Textmate theme Twilight using Coloration v0.2.4 (http://github.com/sickill/coloration)
-" 256-color Terminal support added with Vim-toCterm (http://shawncplus.github.com/Vim-toCterm)
+"
+" Converted from Textmate theme Twilight using Coloration v0.2.4
+"   http://github.com/sickill/coloration
+" 256-color Terminal support added with Vim-toCterm
+"   http://shawncplus.github.com/Vim-toCterm
+"
 " Slightly adjusted thereafter:
 "   NonText background matches Normal
 
