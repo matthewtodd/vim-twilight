@@ -1,6 +1,8 @@
 " Vim color file
 " Converted from Textmate theme Twilight using Coloration v0.2.4 (http://github.com/sickill/coloration)
 " 256-color Terminal support added with Vim-toCterm (http://shawncplus.github.com/Vim-toCterm)
+" Slightly adjusted thereafter:
+"   NonText background matches Normal
 
 set background=dark
 highlight clear
@@ -41,7 +43,7 @@ hi Function  guifg=#9b703f ctermfg=95 guibg=NONE gui=NONE
 hi Identifier  guifg=#f9ee98 ctermfg=228 guibg=NONE gui=NONE
 hi Keyword  guifg=#cda869 ctermfg=179 guibg=NONE gui=NONE
 hi Label  guifg=#8f9d6a ctermfg=107 guibg=NONE gui=NONE
-hi NonText  guifg=#4f4f4f ctermfg=239 guibg=#1b1b1b ctermbg=234 gui=NONE
+hi NonText  guifg=#4f4f4f ctermfg=239 guibg=#141414 ctermbg=233 gui=NONE
 hi Number  guifg=#cf6a4c ctermfg=167 guibg=NONE gui=NONE
 hi Operator  guifg=#cda869 ctermfg=179 guibg=NONE gui=NONE
 hi PreProc  guifg=#cda869 ctermfg=179 guibg=NONE gui=NONE
